@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I am Joy :nerd_face: 	
 
-<!--
-**lindajoy/lindajoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer and Data Scientist.
 
-Here are some ideas to get you started:
+## My Tools
+- ***Languages***: Python(Django/Flask),Dart
+- ***Mobile App Development***: Flutter
+- ***TDD**: Travis CI
+- ***Machine Learning***: Pandas,Numpy,Pytorch,Scikit-Learn,Seaborn,Bokeh,PowerBI,Tableau,Streamlit
 
-- 🔭 I’m currently working on Django Voting API
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Machine Learning/Data Science Projects
-- 🤔 I’m looking for help with JavaScript
-- 💬 Ask me about Python(Django/Flask) and Data Science
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I love the Lord Of Rings!
--->
+## 💬 Ask me about:
+   - Python(Django/Flask) and Data Science
+
