@@ -1,4 +1,4 @@
-### Hi there, I'm Joy [website] 👋
+### Hi there, I'm Joy 👋
 
 [![Website](https://img.shields.io/badge/Joy-Linda-blue)]
 
