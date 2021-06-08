@@ -1,17 +1,18 @@
-### Hi, I am Joy :nerd_face: 	
+### Hi there, I'm Joy [website] 👋
 
-I am a Software Engineer and Data Scientist.
+[![Website](https://img.shields.io/badge/Joy-Linda-blue)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## My Tools
-- ***Languages***: Python(Django/Flask),Dart
-- ***Mobile App Development***: Flutter
-- ***Machine Learning***: Pandas,Numpy,Pytorch,Scikit-Learn,Seaborn,Bokeh,PowerBI,Tableau,Streamlit
+## I'm a Software Engineer , Machine Learning enthusiast and Technology agnostic!!
 
-## 💬 Ask me about:
-   - Python(Django/Flask) and Data Science
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects and Build awesome web Applications
+- ⚡ Fun fact: Huge Fan of Lord of Rings  
 
-## Personal links
-   -[Twitter](https://twitter.com/jlcodes)
-   -[LinkedIn](https://www.linkedin.com/in/joy-l-035438148/)
-   -[DataCamp](https://www.datacamp.com/profile/wawirajoy98)
-   -[Medium](https://medium.com/@wawirajoy98)
+</details>
+[Billie]: https://www.youtube.com/channel/UCiGm_E4ZwYSHV3bcW1pnSeQ
+[website]: https://lindajoywawira.medium.com/
+[twitter]: https://twitter.com/jlcodes
+[instagram]: https://www.instagram.com/linda_codes/
+[linkedin]: https://www.linkedin.com/in/joy-l-035438148/
