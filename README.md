@@ -20,6 +20,6 @@
 - [How To Approach A Machine Learning Project(Part 2)](https://lindajoywawira.medium.com/how-to-approach-a-machine-learning-project-part-2-f083eea6ce36)
 - [Turtle Rescue Forecast Challenge Tutorial](https://zindi.africa/learn/turtle-rescue-forecast-challenge-tutorial)
 - [Spot the Mask Challenge Tutorial - a Deep Learning Approach](https://zindi.africa/learn/spot-the-mask-challenge-tutorial-a-deep-learning-approach)
-- [https://zindi.africa/learn/fraud-detection-in-electricity-and-gas-consumption-challenge-tutorial](https://zindi.africa/learn/fraud-detection-in-electricity-and-gas-consumption-challenge-tutorial)
+- [Fraud Detection in Electricity and Gas Consumption Challenge Tutorial](https://zindi.africa/learn/fraud-detection-in-electricity-and-gas-consumption-challenge-tutorial)
 
 <!-- BLOG-POST-LIST:END -->
