@@ -12,6 +12,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+## 😎 Angular
+- [Introduction to Angular Forms](https://dev.to/angular_kenya/introduction-to-angular-forms-3m3e)
+## 😎 Machine Learning
 - [A Brief Introduction to Streamlit(Part 1)](https://lindajoywawira.medium.com/a-brief-introduction-to-streamlit-part-1-b09397ef5e2b)
 - [How To Approach A Machine Learning Project(Part 1)](https://lindajoywawira.medium.com/how-to-approach-a-machine-learning-project-part-1-594b6fc06466)
 - [How To Approach A Machine Learning Project(Part 2)](https://lindajoywawira.medium.com/how-to-approach-a-machine-learning-project-part-2-f083eea6ce36)
