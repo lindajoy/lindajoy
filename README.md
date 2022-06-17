@@ -14,6 +14,7 @@
 <!-- BLOG-POST-LIST:START -->
 ## 😎 Angular
 - [Introduction to Angular Forms](https://dev.to/angular_kenya/introduction-to-angular-forms-3m3e)
+- [How To Create A Custom Directive in Angular]https://dev.to/angular_kenya/how-to-create-a-custom-directive-in-angular-co0
 ## 😎 Machine Learning
 - [A Brief Introduction to Streamlit(Part 1)](https://lindajoywawira.medium.com/a-brief-introduction-to-streamlit-part-1-b09397ef5e2b)
 - [How To Approach A Machine Learning Project(Part 1)](https://lindajoywawira.medium.com/how-to-approach-a-machine-learning-project-part-1-594b6fc06466)
