@@ -12,8 +12,6 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-## 🧮 Data Structures and Algorithms
-- [My Experience in Learning Data Structures and Algorithms](https://medium.com/@wlindaireri/my-experience-in-learning-data-structures-and-algorithms-625390ee02d1)
 ## 😎 Angular
 - [Introduction to Angular Forms](https://dev.to/angular_kenya/introduction-to-angular-forms-3m3e)
 - [How To Create A Custom Directive in Angular](https://dev.to/angular_kenya/how-to-create-a-custom-directive-in-angular-co0)
