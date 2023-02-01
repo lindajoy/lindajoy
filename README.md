@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2023 Goals: Craftsmanship 🥷🏻
 - I write sometimes: Here are my medium links: [Wawira](https://medium.com/@lindajoywawira) and [Wlinda](https://medium.com/@wlindaireri)
 - ⚡ Fun fact: Huge Fan of Lord of Rings  
 
